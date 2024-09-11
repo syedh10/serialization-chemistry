@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HFmyMrZb970RLcIkLhCv/x7MgR0yhm2thAZIndlG12O8I3Yd+a/do0cZr39KJh7ij5wGDJ3rTYNX/8989jfnuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taimo\\Desktop\\COMP 123 Programming 2 Aderson\\Lab 6\\Lab_6_Syed_Hussain_30140466\\Lab_6_Syed_Hussain_30140466.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taimo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\taimo\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\taimo\\.nuget\\packages\\system.text.json\\8.0.2\\system.text.json.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
